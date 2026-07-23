@@ -26,4 +26,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
