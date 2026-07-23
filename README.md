@@ -182,6 +182,7 @@ Java                     1 repo              █░░░░░░░░░░�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/SushilGitt/SushilGitt/main/assets/bar_graph.png)
+<!--END_SECTION:waka-->
 
 
  
