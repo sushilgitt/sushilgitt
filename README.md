@@ -21,28 +21,26 @@
 
 ### 🚀 A little more about me
 
-```java
-public class Sushil {
+```javascript
+class Sushil {
+  pronouns = "he/him";
+  role = "Full-Stack Developer";
+  education = "Bachelor of Computer Applications, 2025";
+  location = "Jaipur, Rajasthan, India 🇮🇳";
 
-    String pronouns = "he/him";
-    String role = "Full-Stack Developer";
-    String education = "Bachelor of Computer Applications, 2025";
-    String location = "Jaipur, Rajasthan, India 🇮🇳";
+  languages = ["Java", "C++", "Python", "JavaScript", "TypeScript"];
+  frontend  = ["HTML", "CSS", "Tailwind", "React"];
+  backend   = ["Node.js", "Express"];
+  databases = ["MySQL", "MongoDB"];
+  tools     = ["Git", "GitHub", "Postman", "VS Code"];
 
-    String[] languages = { "Java", "C++", "Python", "JavaScript", "TypeScript" };
-    String[] frontend  = { "HTML", "CSS", "Tailwind", "React" };
-    String[] backend   = { "Node.js", "Express" };
-    String[] databases = { "MySQL", "MongoDB" };
-    String[] tools     = { "Git", "GitHub", "Postman", "VS Code" };
+  currentFocus = "Building full-stack apps & sharpening DSA 🧠";
+}
 
-    String currentFocus = "Building full-stack apps & sharpening DSA 🧠";
-
-    public static void main(String[] args) {
-        boolean success = false;
-        while (!success) {
-            success = tryAgain();   // keep learning until it works 🚀
-        }
-    }
+const me = new Sushil();
+let success = false;
+while (!success) {
+  success = tryAgain();   // keep learning until it works 🚀
 }
 ```
 
