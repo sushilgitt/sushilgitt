@@ -21,28 +21,9 @@
 
 ### 🚀 A little more about me
 
-```javascript
-class Sushil {
-  pronouns = "he/him";
-  role = "Software Developer";
-  education = "Bachelor of Computer Applications, 2025";
-  location = "Jaipur, Rajasthan, India 🇮🇳";
-
-  languages = ["Java", "C++", "Python", "JavaScript", "TypeScript"];
-  frontend  = ["HTML", "CSS", "Tailwind", "React"];
-  backend   = ["Node.js", "Express"];
-  databases = ["MySQL", "MongoDB"];
-  tools     = ["Git", "GitHub", "Postman", "VS Code"];
-
-  currentFocus = "Building full-stack apps & sharpening DSA 🧠";
-}
-
-const me = new Sushil();
-let success = false;
-while (!success) {
-  success = tryAgain();   // keep learning until it works 🚀
-}
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SushilGitt/SushilGitt/main/assets/about-terminal.svg" alt="class Sushil { role = 'Software Developer'; ... }" width="720" />
+</p>
 
 ---
 
