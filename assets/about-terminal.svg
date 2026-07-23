@@ -1,35 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 545" width="800" height="545" role="img" aria-label="class Sushil profile">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 565" width="800" height="565" role="img" aria-label="Terminal session: about Sushil Bharti">
   <!-- window -->
-  <rect x="1" y="1" width="798" height="543" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="798" height="563" rx="10" fill="#0d1117" stroke="#30363d"/>
   <!-- title bar -->
   <path d="M1,41 L1,11 Q1,1 11,1 L789,1 Q799,1 799,11 L799,41 Z" fill="#161b22"/>
   <line x1="1" y1="41" x2="799" y2="41" stroke="#30363d"/>
   <circle cx="24" cy="21" r="6" fill="#ff5f56"/>
   <circle cx="46" cy="21" r="6" fill="#febc2e"/>
   <circle cx="68" cy="21" r="6" fill="#28c840"/>
-  <text x="400" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">sushil@github: ~/profile — node sushil.js</text>
+  <text x="400" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">sushil@github: ~ — zsh</text>
 
-  <!-- code body -->
+  <!-- terminal session -->
   <g fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Courier New', monospace" font-size="15" xml:space="preserve">
-    <text x="24" y="72"><tspan fill="#ff7b72">class</tspan> <tspan fill="#ffa657">Sushil</tspan> {</text>
-    <text x="24" y="95">  <tspan fill="#79c0ff">pronouns</tspan> = <tspan fill="#a5d6ff">"he/him"</tspan>;</text>
-    <text x="24" y="118">  <tspan fill="#79c0ff">role</tspan> = <tspan fill="#a5d6ff">"Software Developer"</tspan>;</text>
-    <text x="24" y="141">  <tspan fill="#79c0ff">education</tspan> = <tspan fill="#a5d6ff">"Bachelor of Computer Applications, 2025"</tspan>;</text>
-    <text x="24" y="164">  <tspan fill="#79c0ff">location</tspan> = <tspan fill="#a5d6ff">"Jaipur, Rajasthan, India 🇮🇳"</tspan>;</text>
+    <text x="24" y="72"><tspan fill="#7ee787">sushil@github</tspan><tspan fill="#58a6ff">:~</tspan>$ whoami</text>
+    <text x="24" y="95"><tspan fill="#ffa657">Sushil Bharti</tspan> · <tspan fill="#a5d6ff">Software Developer</tspan></text>
 
-    <text x="24" y="210">  <tspan fill="#79c0ff">languages</tspan> = [<tspan fill="#a5d6ff">"Java"</tspan>, <tspan fill="#a5d6ff">"C++"</tspan>, <tspan fill="#a5d6ff">"Python"</tspan>, <tspan fill="#a5d6ff">"JavaScript"</tspan>, <tspan fill="#a5d6ff">"TypeScript"</tspan>];</text>
-    <text x="24" y="233">  <tspan fill="#79c0ff">frontend</tspan>  = [<tspan fill="#a5d6ff">"HTML"</tspan>, <tspan fill="#a5d6ff">"CSS"</tspan>, <tspan fill="#a5d6ff">"Tailwind"</tspan>, <tspan fill="#a5d6ff">"React"</tspan>];</text>
-    <text x="24" y="256">  <tspan fill="#79c0ff">backend</tspan>   = [<tspan fill="#a5d6ff">"Node.js"</tspan>, <tspan fill="#a5d6ff">"Express"</tspan>];</text>
-    <text x="24" y="279">  <tspan fill="#79c0ff">databases</tspan> = [<tspan fill="#a5d6ff">"MySQL"</tspan>, <tspan fill="#a5d6ff">"MongoDB"</tspan>];</text>
-    <text x="24" y="302">  <tspan fill="#79c0ff">tools</tspan>     = [<tspan fill="#a5d6ff">"Git"</tspan>, <tspan fill="#a5d6ff">"GitHub"</tspan>, <tspan fill="#a5d6ff">"Postman"</tspan>, <tspan fill="#a5d6ff">"VS Code"</tspan>];</text>
+    <text x="24" y="141"><tspan fill="#7ee787">sushil@github</tspan><tspan fill="#58a6ff">:~</tspan>$ cat profile.txt</text>
+    <text x="24" y="164"><tspan fill="#8b949e">pronouns   :</tspan> he/him</text>
+    <text x="24" y="187"><tspan fill="#8b949e">education  :</tspan> Bachelor of Computer Applications, 2025</text>
+    <text x="24" y="210"><tspan fill="#8b949e">location   :</tspan> Jaipur, Rajasthan, India 🇮🇳</text>
+    <text x="24" y="233"><tspan fill="#8b949e">focus      :</tspan> Building full-stack apps &amp; sharpening DSA 🧠</text>
 
-    <text x="24" y="348">  <tspan fill="#79c0ff">currentFocus</tspan> = <tspan fill="#a5d6ff">"Building full-stack apps &amp; sharpening DSA 🧠"</tspan>;</text>
-    <text x="24" y="371">}</text>
+    <text x="24" y="279"><tspan fill="#7ee787">sushil@github</tspan><tspan fill="#58a6ff">:~</tspan>$ ls skills/</text>
+    <text x="24" y="302"><tspan fill="#58a6ff">languages/   frontend/   backend/   databases/   tools/</tspan></text>
 
-    <text x="24" y="417"><tspan fill="#ff7b72">const</tspan> <tspan fill="#79c0ff">me</tspan> = <tspan fill="#ff7b72">new</tspan> <tspan fill="#ffa657">Sushil</tspan>();</text>
-    <text x="24" y="440"><tspan fill="#ff7b72">let</tspan> <tspan fill="#79c0ff">success</tspan> = <tspan fill="#79c0ff">false</tspan>;</text>
-    <text x="24" y="463"><tspan fill="#ff7b72">while</tspan> (!<tspan fill="#79c0ff">success</tspan>) {</text>
-    <text x="24" y="486">  <tspan fill="#79c0ff">success</tspan> = <tspan fill="#d2a8ff">tryAgain</tspan>();   <tspan fill="#8b949e">// keep learning until it works 🚀</tspan></text>
-    <text x="24" y="509">}</text>
+    <text x="24" y="348"><tspan fill="#7ee787">sushil@github</tspan><tspan fill="#58a6ff">:~</tspan>$ cat skills/*</text>
+    <text x="24" y="371"><tspan fill="#79c0ff">languages</tspan>  <tspan fill="#8b949e">→</tspan> Java  C++  Python  JavaScript  TypeScript</text>
+    <text x="24" y="394"><tspan fill="#79c0ff">frontend</tspan>   <tspan fill="#8b949e">→</tspan> HTML  CSS  Tailwind  React</text>
+    <text x="24" y="417"><tspan fill="#79c0ff">backend</tspan>    <tspan fill="#8b949e">→</tspan> Node.js  Express</text>
+    <text x="24" y="440"><tspan fill="#79c0ff">databases</tspan>  <tspan fill="#8b949e">→</tspan> MySQL  MongoDB</text>
+    <text x="24" y="463"><tspan fill="#79c0ff">tools</tspan>      <tspan fill="#8b949e">→</tspan> Git  GitHub  Postman  VS Code</text>
+
+    <text x="24" y="509"><tspan fill="#7ee787">sushil@github</tspan><tspan fill="#58a6ff">:~</tspan>$ ./keep_learning.sh</text>
+    <text x="24" y="532"><tspan fill="#8b949e">&gt;</tspan> <tspan fill="#7ee787">learning... until it works 🚀</tspan> <tspan fill="#7ee787">▋</tspan></text>
   </g>
 </svg>

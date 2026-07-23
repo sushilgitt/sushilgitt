@@ -22,7 +22,7 @@
 ### 🚀 A little more about me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SushilGitt/SushilGitt/main/assets/about-terminal.svg" alt="class Sushil { role = 'Software Developer'; ... }" width="720" />
+  <img src="https://raw.githubusercontent.com/SushilGitt/SushilGitt/main/assets/about-terminal.svg" alt="Terminal session: whoami — Sushil Bharti, Software Developer" width="720" />
 </p>
 
 ---
