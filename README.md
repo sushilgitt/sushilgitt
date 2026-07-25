@@ -77,7 +77,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,54 +85,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-🌆 Daytime                391 commits         █████████████████░░░░░░░░   66.27 % 
-🌃 Evening                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   169 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Tuesday                  121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Wednesday                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Saturday                 127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-JavaScript               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-C#                       2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Other                    1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-
-🔥 Editors: 
-Claude Code              13 hrs 53 mins      ███████████████████████░░   91.81 % 
-VS Code                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-
-🐱‍💻 Projects: 
-StockWatch               5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.89 % 
-sushilgitt               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-microsoft-devs           1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-storetest                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-ClipHive                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-
-💻 Operating System: 
-Windows                  15 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -149,7 +101,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:55:37 UTC
+ Last Updated on 25/07/2026 01:54:56 UTC
 <!--END_SECTION:waka-->
 
 
