@@ -71,7 +71,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-449.37%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -114,25 +114,25 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-JavaScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Other                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Bash                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Markdown                 2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+JavaScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Bash                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 10 mins       ███████████████████████░░   92.06 % 
-VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Claude Code              9 hrs 9 mins        ███████████████████████░░   92.05 % 
+VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🐱‍💻 Projects: 
-StockWatch               5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.48 % 
-sushilgitt               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-microsoft-devs           56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-claude-cli               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+StockWatch               5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.56 % 
+sushilgitt               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+microsoft-devs           55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+claude-cli               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 GithubProfile            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Windows                  9 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -151,7 +151,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:58:59 UTC
+ Last Updated on 27/07/2026 02:06:50 UTC
 <!--END_SECTION:waka-->
 
 
