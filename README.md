@@ -71,7 +71,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-449.37%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -114,25 +116,47 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-JavaScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Bash                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+JavaScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Other                    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Bash                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 9 mins        ███████████████████████░░   92.05 % 
-VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Claude Code              9 hrs 44 mins       ████████████████████████░   96.75 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-StockWatch               5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.56 % 
-sushilgitt               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-microsoft-devs           55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-claude-cli               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-GithubProfile            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+StockWatch               5 hrs 7 mins        █████████████░░░░░░░░░░░░   50.96 % 
+sushilgitt               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+shopify-app              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+claude-cli               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+GithubProfile            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Windows                  9 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 48 mins (97.44%)
+
+✍️ 1,284 lines written by AI, 1 lines written by hand (99.92% AI-written)
+
+🔤 46,616,212 Input Tokens, 295,140 Output Tokens
+
+💵 $240.46 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 208 AI Prompts
+
+Opus                     1,383 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 49,917 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -151,7 +175,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:06:50 UTC
+ Last Updated on 28/07/2026 01:48:44 UTC
 <!--END_SECTION:waka-->
 
 
