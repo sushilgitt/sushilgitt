@@ -71,10 +71,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2031%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-449.37%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -116,47 +112,47 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-JavaScript               2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Other                    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Bash                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
+Markdown                 2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Bash                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 44 mins       ████████████████████████░   96.75 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Claude Code              9 hrs 5 mins        █████████████████████████   99.78 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-StockWatch               5 hrs 7 mins        █████████████░░░░░░░░░░░░   50.96 % 
-sushilgitt               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-shopify-app              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-claude-cli               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-GithubProfile            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+shopify-app              2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+sushilgitt               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+StockWatch               2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+claude-cli               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+GithubProfile            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 48 mins (97.44%)
+⏱ AI Coding Time: 9 hrs 6 mins (100.0%)
 
-✍️ 1,284 lines written by AI, 1 lines written by hand (99.92% AI-written)
+✍️ 831 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 46,616,212 Input Tokens, 295,140 Output Tokens
+🔤 34,532,165 Input Tokens, 190,815 Output Tokens
 
-💵 $240.46 Estimated AI Cost This Week
+💵 $177.43 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 208 AI Prompts
+🧠 13 AI Sessions, 182 AI Prompts
 
-Opus                     1,383 lines         █████████████████████████   100.00 % 
+Opus                     912 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 49,917 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 56,956 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,7 +171,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:48:44 UTC
+ Last Updated on 29/07/2026 01:51:06 UTC
 <!--END_SECTION:waka-->
 
 
