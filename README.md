@@ -75,13 +75,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.39%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.05%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2026
+> 🏆 261 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,21 +92,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-🌆 Daytime                435 commits         █████████████████░░░░░░░░   67.86 % 
-🌃 Evening                89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+🌞 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌆 Daytime                439 commits         █████████████████░░░░░░░░   68.06 % 
+🌃 Evening                89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   169 commits         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Tuesday                  121 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Friday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Monday                   173 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Tuesday                  121 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Friday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Saturday                 131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 
@@ -116,46 +116,47 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-TypeScript               4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Markdown                 2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-C#                       59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
+TypeScript               4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+C#                       2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 38 mins      █████████████████████████   99.40 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Claude Code              18 hrs 8 mins       █████████████████████████   99.14 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-shopify-app              12 hrs 33 mins      ████████████████████░░░░░   79.89 % 
-ClipHive                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-claude-cli               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-StockWatch               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-licensetest              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+shopify-app              14 hrs 8 mins       ███████████████████░░░░░░   77.27 % 
+ClipHive                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+claude-cli               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+StockWatch               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+licensetest              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  15 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 17 mins (100.0%)
 
-✍️ 9,990 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,376 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 102,759,726 Input Tokens, 370,581 Output Tokens
+🔤 204,207,081 Input Tokens, 620,374 Output Tokens
 
-💵 $522.07 Estimated AI Cost This Week
+💵 $1030.30 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 266 AI Prompts
+🧠 17 AI Sessions, 365 AI Prompts
 
-Opus                     10,137 lines        █████████████████████████   100.00 % 
+Opus                     14,583 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 48,848 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📝 Concise Prompter — average 221 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +176,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 02:00:41 UTC
+ Last Updated on 04/08/2026 01:46:50 UTC
 <!--END_SECTION:waka-->
 
 
