@@ -81,11 +81,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2026
+> 🏆 275 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -116,46 +116,46 @@ Sunday                   13 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     3 hrs 44 mins       █████████████░░░░░░░░░░░░   50.34 % 
-Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-TypeScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   38.42 % 
+JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+HTML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 57 mins       ███████████████████████░░   93.54 % 
-VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Claude Code              3 hrs 6 mins        ██████████████████████░░░   86.34 % 
+VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 
 🐱‍💻 Projects: 
-shopdart                 5 hrs 49 mins       ████████████████████░░░░░   78.45 % 
-Claude                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-prep                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-sde                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-claude-cli               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+PromoMint                1 hr 32 mins        ███████████░░░░░░░░░░░░░░   42.64 % 
+Claude                   43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+shopdart                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+migadu knowledge         24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+claude-cli               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 💻 Operating System: 
-Windows                  7 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 16 mins (97.8%)
+⏱ AI Coding Time: 3 hrs 26 mins (95.47%)
 
-✍️ 7,355 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,373 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,465,277 Input Tokens, 410,329 Output Tokens
+🔤 439,363 Input Tokens, 99,822 Output Tokens
 
-💵 $82.53 Estimated AI Cost This Week
+💵 $8.84 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 163 AI Prompts
+🧠 13 AI Sessions, 81 AI Prompts
 
-Opus                     7,362 lines         █████████████████████████   100.00 % 
+Opus                     3,373 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,156 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📄 Detailed Prompter — average 545 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +175,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 00:45:13 UTC
+ Last Updated on 18/08/2026 00:44:25 UTC
 <!--END_SECTION:waka-->
 
 
