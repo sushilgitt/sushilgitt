@@ -71,9 +71,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-675.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -116,46 +116,45 @@ Sunday                   13 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 24 mins       █████████████████░░░░░░░░   66.25 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other                    6 hrs 14 mins       ██████████████████░░░░░░░   70.63 % 
+Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 35 mins       █████████████████████████   99.31 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Claude Code              8 hrs 49 mins       █████████████████████████   99.86 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-coupon-strip             3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.27 % 
-migadu knowledge         2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-PromoMint                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-shopdart                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Claude                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+coupon-strip             3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
+migadu knowledge         2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
+PromoMint                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+shopdart                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 
 💻 Operating System: 
-Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 36 mins (99.44%)
+⏱ AI Coding Time: 8 hrs 50 mins (100.0%)
 
-✍️ 4,177 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 944 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,177,993 Input Tokens, 253,628 Output Tokens
+🔤 1,076,656 Input Tokens, 193,672 Output Tokens
 
-💵 $32.79 Estimated AI Cost This Week
+💵 $30.07 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 116 AI Prompts
+🧠 11 AI Sessions, 98 AI Prompts
 
-Opus                     4,177 lines         █████████████████████████   100.00 % 
+Opus                     944 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 96 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 00:49:03 UTC
+ Last Updated on 22/08/2026 00:44:54 UTC
 <!--END_SECTION:waka-->
 
 
