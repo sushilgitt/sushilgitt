@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696.99%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -116,46 +116,45 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 15 mins       █████████████████░░░░░░░░   68.28 % 
-Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-TypeScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other                    5 hrs 23 mins       ███████████████████░░░░░░   75.01 % 
+TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 8 mins        █████████████████████████   99.86 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              7 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coupon-strip             3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-migadu knowledge         2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-PromoMint                1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-shopdart                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-hivelight                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+coupon-strip             3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.79 % 
+migadu knowledge         2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+shopdart                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+hivelight                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+hive-light               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  9 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 9 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 11 mins (100.0%)
 
-✍️ 3,787 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,647 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,179,071 Input Tokens, 238,105 Output Tokens
+🔤 1,062,043 Input Tokens, 215,235 Output Tokens
 
-💵 $32.99 Estimated AI Cost This Week
+💵 $29.74 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 101 AI Prompts
+🧠 11 AI Sessions, 71 AI Prompts
 
-Opus                     3,791 lines         █████████████████████████   100.00 % 
+Opus                     3,651 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 104 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 00:46:50 UTC
+ Last Updated on 25/08/2026 00:46:15 UTC
 <!--END_SECTION:waka-->
 
 
