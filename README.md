@@ -116,44 +116,42 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 23 mins       ███████████████████░░░░░░   75.01 % 
-TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    3 hrs 48 mins       ███████████████████░░░░░░   75.91 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+TypeScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 11 mins       █████████████████████████   100.00 % 
+Claude Code              5 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coupon-strip             3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.79 % 
-migadu knowledge         2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
-shopdart                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-hivelight                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-hive-light               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+migadu knowledge         2 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.24 % 
+coupon-strip             2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
+hivelight                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+hive-light               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 5 hrs (100.0%)
 
-✍️ 3,647 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,616 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,062,043 Input Tokens, 215,235 Output Tokens
+🔤 534,862 Input Tokens, 162,124 Output Tokens
 
-💵 $29.74 Estimated AI Cost This Week
+💵 $18.51 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 71 AI Prompts
+🧠 9 AI Sessions, 57 AI Prompts
 
-Opus                     3,651 lines         █████████████████████████   100.00 % 
+Opus                     3,620 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
+📝 Concise Prompter — average 76 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -174,7 +172,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 00:46:15 UTC
+ Last Updated on 26/08/2026 00:47:13 UTC
 <!--END_SECTION:waka-->
 
 
