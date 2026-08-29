@@ -116,38 +116,43 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               18 mins             ████████████████████████░   96.07 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TypeScript               18 mins             █████████████████░░░░░░░░   66.92 % 
+Python                   8 mins              ████████░░░░░░░░░░░░░░░░░   30.34 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Claude Code              19 mins             █████████████████████████   100.00 % 
+Claude Code              20 mins             ███████████████████░░░░░░   74.91 % 
+Codex Vscode             4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🐱‍💻 Projects: 
-hivelight                18 mins             ████████████████████████░   96.07 % 
-hive-light               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+hivelight                18 mins             █████████████████░░░░░░░░   66.92 % 
+migadu knowledge         8 mins              ████████░░░░░░░░░░░░░░░░░   30.34 % 
+hive-light               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (100.0%)
+⏱ AI Coding Time: 25 mins (90.92%)
 
 ✍️ 2,843 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 102,415 Input Tokens, 44,433 Output Tokens
+🔤 188,180 Input Tokens, 50,936 Output Tokens
 
-💵 $3.11 Estimated AI Cost This Week
+💵 $3.44 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 7 AI Sessions, 7 AI Prompts
 
 Opus                     2,847 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
+📝 Concise Prompter — average 175 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -168,7 +173,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 08:10:27 UTC
+ Last Updated on 29/08/2026 04:56:33 UTC
 <!--END_SECTION:waka-->
 
 
