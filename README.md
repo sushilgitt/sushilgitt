@@ -116,41 +116,38 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 mins              ███████████████████████░░   91.73 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             4 mins              ████████████░░░░░░░░░░░░░   48.39 % 
-VS Code                  2 mins              ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Claude Code              2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Codex Vscode             4 mins              █████████████░░░░░░░░░░░░   52.75 % 
+VS Code                  2 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Claude Code              1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 
 🐱‍💻 Projects: 
-migadu knowledge         8 mins              ███████████████████████░░   91.73 % 
-hive-light               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+migadu knowledge         8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (72.55%)
+⏱ AI Coding Time: 5 mins (70.07%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 130,950 Input Tokens, 7,754 Output Tokens
+🔤 85,765 Input Tokens, 6,503 Output Tokens
 
-💵 $0.68 Estimated AI Cost This Week
+💵 $0.33 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 4 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
+📝 Concise Prompter — average 186 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -171,7 +168,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 02:41:29 UTC
+ Last Updated on 31/08/2026 02:34:57 UTC
 <!--END_SECTION:waka-->
 
 
