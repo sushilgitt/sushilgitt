@@ -75,13 +75,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696.99%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-698.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 287 Contributions in the Year 2026
+> 🏆 289 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,20 +92,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-🌆 Daytime                585 commits         █████████████████░░░░░░░░   67.01 % 
-🌃 Evening                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+🌆 Daytime                585 commits         █████████████████░░░░░░░░   66.86 % 
+🌃 Evening                144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   231 commits         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Tuesday                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Wednesday                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Thursday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Friday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Saturday                 161 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Monday                   233 commits         ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Tuesday                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Wednesday                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Thursday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Saturday                 161 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 
@@ -116,39 +116,42 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   100.00 % 
+Other                    1 hr 23 mins        ███████████████████████░░   90.87 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-Codex Vscode             4 mins              █████████████░░░░░░░░░░░░   52.75 % 
-VS Code                  2 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Claude Code              1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Claude Code              1 hr 25 mins        ███████████████████████░░   92.45 % 
+Codex Vscode             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-migadu knowledge         8 mins              █████████████████████████   100.00 % 
+shopdart                 1 hr 23 mins        ███████████████████████░░   90.87 % 
+migadu knowledge         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (70.07%)
+⏱ AI Coding Time: 1 hr 29 mins (97.27%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 85,765 Input Tokens, 6,503 Output Tokens
+🔤 142,967 Input Tokens, 33,417 Output Tokens
 
-💵 $0.33 Estimated AI Cost This Week
+💵 $4.67 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 5 AI Sessions, 27 AI Prompts
 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 91 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -168,7 +171,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 02:34:57 UTC
+ Last Updated on 01/09/2026 02:49:19 UTC
 <!--END_SECTION:waka-->
 
 
