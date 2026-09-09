@@ -71,9 +71,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-734.42%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -116,43 +116,43 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 8 mins        ████████████████████░░░░░   79.06 % 
-HTML                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    7 hrs 5 mins        ███████████████████░░░░░░   76.69 % 
+HTML                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 7 mins       █████████████████████████   98.38 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Claude Code              9 hrs 5 mins        █████████████████████████   98.20 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🐱‍💻 Projects: 
-shopdart                 4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
-kiran-sr                 4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
-migadu-setup             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Chatleaf                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-StockWatch               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+kiran-sr                 5 hrs 51 mins       ████████████████░░░░░░░░░   63.25 % 
+shopdart                 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+migadu-setup             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Chatleaf                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+StockWatch               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 💻 Operating System: 
-Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 7 mins (98.38%)
+⏱ AI Coding Time: 9 hrs 5 mins (98.2%)
 
 ✍️ 12,575 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 851,082 Input Tokens, 199,512 Output Tokens
+🔤 509,554 Input Tokens, 150,570 Output Tokens
 
-💵 $33.40 Estimated AI Cost This Week
+💵 $17.62 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 155 AI Prompts
+🧠 16 AI Sessions, 144 AI Prompts
 
 Opus                     12,575 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 626 characters per prompt
+📄 Detailed Prompter — average 806 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -173,7 +173,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 02:16:33 UTC
+ Last Updated on 09/09/2026 02:20:09 UTC
 <!--END_SECTION:waka-->
 
 
