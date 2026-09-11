@@ -71,9 +71,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-956.69%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -116,47 +116,46 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 59 mins       ███████████████████░░░░░░   77.46 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Other                    8 hrs 16 mins       █████████████████████░░░░   82.93 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 8 mins       █████████████████████████   98.35 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Claude Code              9 hrs 58 mins       █████████████████████████   99.97 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-kiran-sr                 7 hrs 8 mins        █████████████████░░░░░░░░   69.30 % 
-dream-shoppable-video-ree1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-shopdart                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-migadu-setup             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Chatleaf                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+kiran-sr                 7 hrs 12 mins       ██████████████████░░░░░░░   72.21 % 
+dream-shoppable-video-ree1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Chatleaf                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+StockWatch               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+migadu-setup             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Windows                  10 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 8 mins (98.35%)
+⏱ AI Coding Time: 9 hrs 58 mins (99.97%)
 
-✍️ 7,895 lines written by AI, 7 lines written by hand (99.91% AI-written)
+✍️ 3,002 lines written by AI, 7 lines written by hand (99.77% AI-written)
 
-🔤 1,309,081 Input Tokens, 284,755 Output Tokens
+🔤 1,109,587 Input Tokens, 205,683 Output Tokens
 
-💵 $35.10 Estimated AI Cost This Week
+💵 $28.58 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 211 AI Prompts
+🧠 13 AI Sessions, 208 AI Prompts
 
-Opus                     7,895 lines         █████████████████████████   100.00 % 
+Opus                     3,002 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 484 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 458 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:18:37 UTC
+ Last Updated on 11/09/2026 02:14:52 UTC
 <!--END_SECTION:waka-->
 
 
