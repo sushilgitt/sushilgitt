@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2050%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957.55%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 314 Contributions in the Year 2026
+> 🏆 316 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,20 +92,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                668 commits         █████████████████░░░░░░░░   68.16 % 
-🌃 Evening                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+🌆 Daytime                668 commits         █████████████████░░░░░░░░   68.02 % 
+🌃 Evening                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  234 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Saturday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Monday                   247 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Tuesday                  234 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Saturday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
@@ -116,47 +116,47 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 11 mins       ███████████████████░░░░░░   77.12 % 
-Markdown                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    9 hrs 46 mins       █████████████████████░░░░   82.52 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 36 mins      █████████████████████████   99.97 % 
+Claude Code              11 hrs 51 mins      █████████████████████████   99.97 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-kiran-sr                 5 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.36 % 
-dream-shoppable-video-ree2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-PromoMint                1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-migadu-setup             1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-claude-cli               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+kiran-sr                 4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
+dream-shoppable-video-ree2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Claude                   2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+PromoMint                1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+migadu-setup             1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 💻 Operating System: 
-Windows                  10 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 36 mins (99.97%)
+⏱ AI Coding Time: 11 hrs 51 mins (99.97%)
 
-✍️ 3,529 lines written by AI, 7 lines written by hand (99.8% AI-written)
+✍️ 677 lines written by AI, 7 lines written by hand (98.98% AI-written)
 
-🔤 1,570,029 Input Tokens, 269,844 Output Tokens
+🔤 1,680,144 Input Tokens, 265,758 Output Tokens
 
-💵 $41.17 Estimated AI Cost This Week
+💵 $40.71 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 186 AI Prompts
+🧠 18 AI Sessions, 206 AI Prompts
 
-Opus                     3,529 lines         █████████████████████████   100.00 % 
+Opus                     677 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 621 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 98.98% of written lines came from AI
+📝 Concise Prompter — average 494 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 1.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,7 +175,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 02:35:59 UTC
+ Last Updated on 15/09/2026 02:40:06 UTC
 <!--END_SECTION:waka-->
 
 
