@@ -71,11 +71,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957.80%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -92,21 +92,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌆 Daytime                671 commits         █████████████████░░░░░░░░   68.12 % 
-🌃 Evening                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                676 commits         █████████████████░░░░░░░░   68.28 % 
+🌃 Evening                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   247 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Tuesday                  237 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Saturday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Monday                   247 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Tuesday                  237 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Thursday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Friday                   88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Saturday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
@@ -116,47 +116,46 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 9 mins        ██████████████████░░░░░░░   73.76 % 
-Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other                    6 hrs 38 mins       ███████████████████░░░░░░   77.77 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 2 mins       █████████████████████████   99.97 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              8 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kiran-sr                 2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-dream-shoppable-video-ree2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Claude                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-PromoMint                1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-migadu-setup             1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Claude                   1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+kiran-sr                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+PromoMint                1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+migadu-setup             1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+dream-shoppable-video-ree1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 
 💻 Operating System: 
-Windows                  11 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 2 mins (99.97%)
+⏱ AI Coding Time: 8 hrs 32 mins (100.0%)
 
-✍️ 891 lines written by AI, 7 lines written by hand (99.22% AI-written)
+✍️ 848 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,636,687 Input Tokens, 253,579 Output Tokens
+🔤 965,965 Input Tokens, 180,706 Output Tokens
 
-💵 $39.19 Estimated AI Cost This Week
+💵 $26.87 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 176 AI Prompts
+🧠 16 AI Sessions, 131 AI Prompts
 
-Opus                     891 lines           █████████████████████████   100.00 % 
+Opus                     848 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📝 Concise Prompter — average 406 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 399 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 02:34:19 UTC
+ Last Updated on 17/09/2026 02:38:26 UTC
 <!--END_SECTION:waka-->
 
 
