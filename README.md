@@ -116,45 +116,45 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 38 mins       ███████████████████░░░░░░   77.77 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    5 hrs 12 mins       ██████████████████░░░░░░░   73.25 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+JavaScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 32 mins       █████████████████████████   100.00 % 
+Claude Code              7 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Claude                   1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-kiran-sr                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-PromoMint                1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-migadu-setup             1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-dream-shoppable-video-ree1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Claude                   1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+PromoMint                1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+migadu-setup             1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+kiran-sr                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+claude-cli               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 💻 Operating System: 
-Windows                  8 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 32 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 6 mins (100.0%)
 
 ✍️ 848 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 965,965 Input Tokens, 180,706 Output Tokens
+🔤 929,769 Input Tokens, 156,135 Output Tokens
 
-💵 $26.87 Estimated AI Cost This Week
+💵 $22.81 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 131 AI Prompts
+🧠 14 AI Sessions, 97 AI Prompts
 
 Opus                     848 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 467 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -174,7 +174,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 02:38:26 UTC
+ Last Updated on 18/09/2026 02:26:08 UTC
 <!--END_SECTION:waka-->
 
 
