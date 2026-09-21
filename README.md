@@ -71,9 +71,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -116,46 +116,46 @@ Sunday                   14 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.64 % 
-Text                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-JavaScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Other                    3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
+Text                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+JavaScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 3 mins        █████████████████████████   99.95 % 
+Claude Code              7 hrs 37 mins       █████████████████████████   99.95 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-cart-lift                2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-Claude                   2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-pixlite                  1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-claude-cli               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-swatchbox                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+cart-lift                2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Claude                   2 hrs               ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+pixlite                  1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+swatchbox                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+OptiPix                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 37 mins (100.0%)
 
 ✍️ 4,782 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 768,514 Input Tokens, 191,129 Output Tokens
+🔤 727,337 Input Tokens, 184,417 Output Tokens
 
-💵 $23.26 Estimated AI Cost This Week
+💵 $22.57 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 106 AI Prompts
+🧠 10 AI Sessions, 98 AI Prompts
 
 Opus                     4,782 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+📝 Concise Prompter — average 111 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -176,7 +176,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushilgitt/sushilgitt/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 02:36:00 UTC
+ Last Updated on 21/09/2026 02:33:17 UTC
 <!--END_SECTION:waka-->
 
 
